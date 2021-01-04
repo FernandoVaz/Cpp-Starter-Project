@@ -1,0 +1,3 @@
+D:/Programas/Projects/GearShift/cmake-build-debug/CMakeFiles/GearShift.dir
+D:/Programas/Projects/GearShift/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programas/Projects/GearShift/cmake-build-debug/CMakeFiles/rebuild_cache.dir

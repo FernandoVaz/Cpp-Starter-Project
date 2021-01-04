@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GearShift"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Programas/Projects/GearShift/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GearShift">
+				<Option output="D:/Programas/Projects/GearShift/cmake-build-debug/GearShift.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Programas/Projects/GearShift/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++"/>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/mingw32"/>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+					<Add directory="d:\dev\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\dev\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\dev\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 GearShift"/>
+					<CompileFile command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GearShift/fast">
+				<Option output="D:/Programas/Projects/GearShift/cmake-build-debug/GearShift.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Programas/Projects/GearShift/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++"/>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/mingw32"/>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="D:/Dev/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+					<Add directory="d:\dev\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\dev\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\dev\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 GearShift/fast"/>
+					<CompileFile command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Programas/Projects/GearShift/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Programas/Projects/GearShift/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Programas/Projects/GearShift/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Programas/Projects/GearShift/include/Logger.h">
+			<Option target="GearShift"/>
+		</Unit>
+		<Unit filename="D:/Programas/Projects/GearShift/include/SerialPort.h">
+			<Option target="GearShift"/>
+		</Unit>
+		<Unit filename="D:/Programas/Projects/GearShift/main.cpp">
+			<Option target="GearShift"/>
+		</Unit>
+		<Unit filename="D:/Programas/Projects/GearShift/src/Logger.cpp">
+			<Option target="GearShift"/>
+		</Unit>
+		<Unit filename="D:/Programas/Projects/GearShift/src/SerialPort.cpp">
+			<Option target="GearShift"/>
+		</Unit>
+		<Unit filename="D:/Programas/Projects/GearShift/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

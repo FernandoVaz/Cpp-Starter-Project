@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programas/Projects/GearShift/include/SerialPort.h
+windows.h
+-
+iostream
+-
+
+D:/Programas/Projects/GearShift/main.cpp
+iostream
+-
+include/SerialPort.h
+D:/Programas/Projects/GearShift/include/SerialPort.h
+cstdio
+-
+string.h
+-
+fstream
+-
+regex
+-
+
