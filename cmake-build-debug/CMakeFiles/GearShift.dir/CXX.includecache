@@ -17,6 +17,8 @@ iostream
 -
 include/SerialPort.h
 D:/Programas/Projects/GearShift/include/SerialPort.h
+winuser.h
+D:/Programas/Projects/GearShift/winuser.h
 cstdio
 -
 string.h
@@ -24,5 +26,11 @@ string.h
 fstream
 -
 regex
+-
+winable.h
+-
+Windows.h
+-
+unistd.h
 -
 
