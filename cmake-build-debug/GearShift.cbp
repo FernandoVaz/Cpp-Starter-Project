@@ -92,6 +92,9 @@
 		<Unit filename="D:/Programas/Projects/GearShift/include/SerialPort.h">
 			<Option target="GearShift"/>
 		</Unit>
+		<Unit filename="D:/Programas/Projects/GearShift/include/vjoyinterface.h">
+			<Option target="GearShift"/>
+		</Unit>
 		<Unit filename="D:/Programas/Projects/GearShift/main.cpp">
 			<Option target="GearShift"/>
 		</Unit>
