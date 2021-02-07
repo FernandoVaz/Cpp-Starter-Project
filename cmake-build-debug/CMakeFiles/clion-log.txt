@@ -1,4 +1,0 @@
-"D:\Programas\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Programas\Projects\GearShift
--- Configuring done
--- Generating done
--- Build files have been written to: D:/Programas/Projects/GearShift/cmake-build-debug

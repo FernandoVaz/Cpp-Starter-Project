@@ -1,3 +1,0 @@
-"D:\Programas\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\GearShift.dir/objects.a
-D:\Dev\MinGW\bin\ar.exe cr CMakeFiles\GearShift.dir/objects.a @CMakeFiles\GearShift.dir\objects1.rsp
-D:\Dev\CodeBlocks\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\GearShift.dir/objects.a -Wl,--no-whole-archive  -o GearShift.exe -Wl,--out-implib,libGearShift.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GearShift.dir\linklibs.rsp

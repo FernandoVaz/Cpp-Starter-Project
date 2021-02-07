@@ -5,7 +5,7 @@
 * LICENSE: MIT
 */
 
-#include "../include/SerialPort.h"
+#include "../../include/SerialPort.h"
 
 SerialPort::SerialPort(const char *portName)
 {
@@ -33,8 +33,7 @@ SerialPort::SerialPort(const char *portName)
     {
         DCB dcbSerialParameters = {0};
 
-        if (!GetCommState(this->handler, &dcbSerialParameters))
-        {
+        if (!GetCommState(this->handler, &dcbSerialParameters) ){
             std::cerr << "Failed to get current serial parameters\n";
         }
         else
